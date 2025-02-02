@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saikat-ai
+- 👋 Hi, I’m Saikat Dhibar.
 - 👀 I’m interested in computational biophysics, enhanced sampling, ML-augumented molecular dynamics, interpretable ML models
 - 🌱 I’m currently a graduate student, working in the interface of machine learning, biophysics and bioinformatics.
 - 💞️ I’m looking to collaborate on diverse projects ranging from biophysics to bioinformatics problems
